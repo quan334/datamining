@@ -697,3 +697,19 @@ html {
     .sidebar-logo { display: none; }
 
 }
+
+/* upload image */
+.upload-section {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .upload-section .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .upload-section input[type="file"] {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+  }
